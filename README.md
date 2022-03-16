@@ -6,9 +6,6 @@ The project consists of 3 Sprints.
 Application Website: https://rahulshettyacademy.com/dropdownsPractise/#
 
 
-Test Plan: https://gregorybush.atlassian.net/browse/QAGB-22
-
-
 Test Plan & Test Cases including Required Trace Matrix (RTM): https://docs.google.com/spreadsheets/d/1xTY_Fw4SeGq4ZqGP6Bk5STJJrGJU9bN5NjMoxkhE378/edit?usp=sharing
 
 
